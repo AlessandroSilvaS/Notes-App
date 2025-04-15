@@ -29,7 +29,7 @@ const ModalNote: React.FC<ModalNoteProps> = ({showProp, onHide}) => {
                 </ModalBody>
 
                 <ModalFooter>
-                    <Button type="button" className="button-note">Create a note</Button>
+                    <Button type="button" className="button-note">Create</Button>
                 </ModalFooter>
 
         </Modal>

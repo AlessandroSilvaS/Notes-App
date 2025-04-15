@@ -20,7 +20,7 @@ function App() {
         <div className="buton-area">
 
           <button onClick={showModal}><FaPlus className='plus'/></button>
-          <p>Add note</p>
+          <p>Add</p>
 
         </div>
 
